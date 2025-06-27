@@ -22,7 +22,7 @@ Hireon is a full-stack AI-based platform that helps job seekers build ATS-optimi
 | Frontend    | Next.js 15, React 19, Tailwind CSS, Shadcn UI |
 | Backend     | Prisma ORM, Neon (PostgreSQL), Inngest      |
 | Authentication | Clerk                                     |
-| AI Integration | Gemini API (Google's LLM)                 |
+| AI Integration | Google's Gemini API            |
 | Charts & UI | Recharts, MDX Editor                        |
 
 ---

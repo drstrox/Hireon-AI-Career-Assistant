@@ -24,7 +24,6 @@ Hireon is a full-stack AI-based platform that helps job seekers build ATS-optimi
 | Authentication | Clerk                                     |
 | AI Integration | Gemini API (Google's LLM)                 |
 | Charts & UI | Recharts, MDX Editor                        |
-| Hosting     | Vercel (or your preferred cloud platform)   |
 
 ---
 
